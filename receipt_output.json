@@ -1,0 +1,138 @@
+[
+  {
+    "item": "St Louis Rib",
+    "quantity": 1,
+    "expiration": "2025-10-30",
+    "category": "M",
+    "location": "F",
+    "cost": 21.63
+  },
+  {
+    "item": "Organic Eggs",
+    "quantity": 1,
+    "expiration": "2025-06-30",
+    "category": "O",
+    "location": "F",
+    "cost": 7.99
+  },
+  {
+    "item": "Haddock",
+    "quantity": 1,
+    "expiration": "2025-10-30",
+    "category": "M",
+    "location": "F",
+    "cost": 20.48
+  },
+  {
+    "item": "Thai Jasmine Rice",
+    "quantity": 1,
+    "expiration": "2026-04-30",
+    "category": "G",
+    "location": "P",
+    "cost": 19.99
+  },
+  {
+    "item": "Silk Almond Milk",
+    "quantity": 1,
+    "expiration": "2025-09-30",
+    "category": "O",
+    "location": "F",
+    "cost": 10.99
+  },
+  {
+    "item": "NY Thin Cut Steak",
+    "quantity": 1,
+    "expiration": "2025-10-30",
+    "category": "M",
+    "location": "F",
+    "cost": 39.12
+  },
+  {
+    "item": "Brussels Sprouts",
+    "quantity": 1,
+    "expiration": "2025-06-30",
+    "category": "V",
+    "location": "F",
+    "cost": 8.47
+  },
+  {
+    "item": "Greek Yogurt",
+    "quantity": 1,
+    "expiration": "2025-08-30",
+    "category": "O",
+    "location": "F",
+    "cost": 7.49
+  },
+  {
+    "item": "Asparagus",
+    "quantity": 1,
+    "expiration": "2025-06-30",
+    "category": "V",
+    "location": "F",
+    "cost": 7.49
+  },
+  {
+    "item": "OMG3 Fish Oil",
+    "quantity": 1,
+    "expiration": "2026-04-30",
+    "category": "O",
+    "location": "P",
+    "cost": 28.49
+  },
+  {
+    "item": "Pumpkin Seed",
+    "quantity": 1,
+    "expiration": "2025-10-30",
+    "category": "O",
+    "location": "P",
+    "cost": 3.6
+  },
+  {
+    "item": "Organic Bananas",
+    "quantity": 1,
+    "expiration": "2025-05-15",
+    "category": "F",
+    "location": "P",
+    "cost": 2.99
+  },
+  {
+    "item": "3 Berry Mix",
+    "quantity": 1,
+    "expiration": "2025-06-30",
+    "category": "F",
+    "location": "F",
+    "cost": 3.99
+  },
+  {
+    "item": "Blueberries",
+    "quantity": 1,
+    "expiration": "2025-06-30",
+    "category": "F",
+    "location": "F",
+    "cost": 3.99
+  },
+  {
+    "item": "Avocados",
+    "quantity": 1,
+    "expiration": "2025-06-30",
+    "category": "F",
+    "location": "F",
+    "cost": 4.99
+  },
+  {
+    "item": "V8 Vegetable Juice",
+    "quantity": 1,
+    "expiration": "2026-04-30",
+    "category": "O",
+    "location": "P",
+    "cost": 15.79
+  },
+  {
+    "item": "V8 Vegetable Juice",
+    "quantity": 1,
+    "expiration": "2026-04-30",
+    "category": "O",
+    "location": "P",
+    "cost": 15.79
+  }
+]
