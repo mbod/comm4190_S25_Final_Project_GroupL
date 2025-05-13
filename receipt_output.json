@@ -1,138 +1,138 @@
 [
   {
-    "item": "St Louis Rib",
+    "item": "ST LOUIS RIB",
     "quantity": 1,
-    "expiration": "2025-10-30",
+    "expiration": "2026-05-13",
     "category": "M",
     "location": "F",
     "cost": 21.63
   },
   {
-    "item": "Organic Eggs",
+    "item": "ORG FR EGGS",
     "quantity": 1,
-    "expiration": "2025-06-30",
+    "expiration": "2025-06-13",
     "category": "O",
     "location": "F",
     "cost": 7.99
   },
   {
-    "item": "Haddock",
+    "item": "HADDOCK",
     "quantity": 1,
-    "expiration": "2025-10-30",
+    "expiration": "2025-06-13",
     "category": "M",
     "location": "F",
     "cost": 20.48
   },
   {
-    "item": "Thai Jasmine Rice",
+    "item": "THAI JASMINE",
     "quantity": 1,
-    "expiration": "2026-04-30",
+    "expiration": "2026-05-13",
     "category": "G",
     "location": "P",
     "cost": 19.99
   },
   {
-    "item": "Silk Almond Milk",
+    "item": "SILK ORG.ALM",
     "quantity": 1,
-    "expiration": "2025-09-30",
+    "expiration": "2026-05-13",
     "category": "O",
     "location": "F",
     "cost": 10.99
   },
   {
-    "item": "NY Thin Cut Steak",
+    "item": "NY THIN CUT",
     "quantity": 1,
-    "expiration": "2025-10-30",
+    "expiration": "2025-06-13",
     "category": "M",
     "location": "F",
     "cost": 39.12
   },
   {
-    "item": "Brussels Sprouts",
+    "item": "BRUSSEL SPT",
     "quantity": 1,
-    "expiration": "2025-06-30",
+    "expiration": "2025-06-13",
     "category": "V",
     "location": "F",
-    "cost": 8.47
+    "cost": 4.89
   },
   {
-    "item": "Greek Yogurt",
+    "item": "GREEK YOGURT",
     "quantity": 1,
-    "expiration": "2025-08-30",
+    "expiration": "2025-06-13",
     "category": "O",
     "location": "F",
     "cost": 7.49
   },
   {
-    "item": "Asparagus",
+    "item": "ASPARAGUS",
     "quantity": 1,
-    "expiration": "2025-06-30",
+    "expiration": "2025-06-13",
     "category": "V",
     "location": "F",
     "cost": 7.49
   },
   {
-    "item": "OMG3 Fish Oil",
+    "item": "OMG3 FSHOIL",
     "quantity": 1,
-    "expiration": "2026-04-30",
+    "expiration": "2026-05-13",
     "category": "O",
     "location": "P",
     "cost": 28.49
   },
   {
-    "item": "Pumpkin Seed",
+    "item": "PUMPKIN SEED",
     "quantity": 1,
-    "expiration": "2025-10-30",
+    "expiration": "2026-05-13",
     "category": "O",
     "location": "P",
     "cost": 3.6
   },
   {
-    "item": "Organic Bananas",
+    "item": "ORG BANANAS",
     "quantity": 1,
-    "expiration": "2025-05-15",
+    "expiration": "2025-06-13",
     "category": "F",
-    "location": "P",
+    "location": "F",
     "cost": 2.99
   },
   {
-    "item": "3 Berry Mix",
+    "item": "3 BERRY",
     "quantity": 1,
-    "expiration": "2025-06-30",
+    "expiration": "2025-06-13",
     "category": "F",
     "location": "F",
     "cost": 3.99
   },
   {
-    "item": "Blueberries",
+    "item": "BLUEBERRIES",
     "quantity": 1,
-    "expiration": "2025-06-30",
+    "expiration": "2025-06-13",
     "category": "F",
     "location": "F",
     "cost": 3.99
   },
   {
-    "item": "Avocados",
+    "item": "AVOCADOS",
     "quantity": 1,
-    "expiration": "2025-06-30",
+    "expiration": "2025-06-13",
     "category": "F",
     "location": "F",
     "cost": 4.99
   },
   {
-    "item": "V8 Vegetable Juice",
-    "quantity": 1,
-    "expiration": "2026-04-30",
+    "item": "V8 VEG.JUICE",
+    "quantity": 2,
+    "expiration": "2026-05-13",
     "category": "O",
     "location": "P",
     "cost": 15.79
   },
   {
-    "item": "V8 Vegetable Juice",
+    "item": "BATH*",
     "quantity": 1,
-    "expiration": "2026-04-30",
+    "expiration": "N/A",
     "category": "O",
     "location": "P",
-    "cost": 15.79
+    "cost": 5.99
   }
 ]
