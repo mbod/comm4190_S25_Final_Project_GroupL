@@ -34,15 +34,25 @@
 ## File Structure & Descriptions  
 
 ├── main.ipynb # Your core receipt-scanning notebook, contains: encode_image, prompt & API call, parsing, consolidation
+
 ├── gradio_interface.ipynb # DB setup + Gradio UI notebook
+
 ├── readme.md # An abundance of information (all the admin work about project idea, user scenarios, prompt development, app development, testing, etc.)
+
 ├── pang.png: # The Pang logo/icon that I designed
+
 ├── pantry.db: # sqlite3 db to hold json data for Gradio setup
+
 └── receipt_output.json/ # the output for latest call in main
+
 ├── costco_test.png
+
 ├── target_test.png
+
 ├── notes_test.jng
+
 ├── cat_test.jpg
+
 └── human_test.jpg
 
 
